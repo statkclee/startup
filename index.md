@@ -14,6 +14,7 @@ $100 달러 컴퓨터 제조기반 제품을 가지고 [xwMOOC](http://www.xwmoo
 ## 스타트업 창업 비즈니스 
 
 1.  [스타트업](startup.html)
+    - [이미지 작업](edit-image.html)
 1.  [아마존 웹 서비스(AWS)](aws.html)
     - [AWS 보안(IAM)](aws-iam.html)
     - [정적 웹 사이트 개발 툴체인 (제킬)](aws-jekyll-toolchain.html)
