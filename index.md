@@ -57,7 +57,7 @@ subtitle: 경영학도를 위한 기계학습(인공지능) 창업
     - [정적 웹 서비스 S3에 올리기](aws-static-web-s3.html)    
     - [AWS 정적 웹 서비스 최적화](aws-static-web-optimization.html)
     - [도커](aws-docker.html)
-1.  [데이터 과학](data-science.html)
+1.  기타
     -  [베이즈안 R](bayesian-r.html)
     -  [구글 애널리틱스](data-science-ga.html)
 
