@@ -27,7 +27,7 @@ subtitle: 경영학도를 위한 기계학습(인공지능) 창업
 
 ## 기계학습(인공지능) 스타트업 창업 및 준비
 
-1. 경영학도를 위한 스타트업 기본
+1. xwMOOC 창업 제품
     1. [xwMOOC $100 오픈 컴퓨터](http://computer.xwmooc.org/)
     1. [xwMOOC $100 슈퍼 오픈 컴퓨터](http://computers.xwmooc.org/)
     1. [지적재산권(IP)](http://statkclee.github.io/open-source-for-business/): 특허, 상표, 저작권, 라이선스
