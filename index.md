@@ -20,6 +20,8 @@ subtitle: 경영학도를 위한 기계학습(인공지능) 창업
     1. 금수저, 은수저를 입에 문 창업가
     1. 기계학습을 입에 문 창업가
 
+**[경영학도를 위한 기계학습(인공지능) 창업 토의자료](http://statkclee.github.io/slideshows/hanbat/)**
+
 > ### AI is a Superpower {.callout}
 >
 > "AI is a superpower!!!" [Andrew Ng](https://twitter.com/andrewyng/status/728986380638916609)  
