@@ -1,34 +1,33 @@
 ---
 layout: page
-title: 기계학습(인공지능) 기술기반 스타트업 (xwMOOC)
-subtitle: 경영학도를 위한 기계학습(인공지능) 창업 
+title: 기계학습(인공지능) 기술기반 엔터프레너쉽
+subtitle: 경영학도를 위한 데이터 과학과 기계학습(인공지능)
 ---
 
-> ### 기계학습 스타트업 창업 특강 장소 {.getready}
+> ### 기계학습 엔터프레너쉽 특강 장소 {.getready}
 >
-> * 일시: 2016년 5월 30일 10:00 ~
+> * 일시: 2016년 10월 19일 14:00 ~ 
 > * 장소: [한밭대학교](http://www.hanbat.ac.kr/), S3동 6층 613호
 > 대전광역시 유성구 동서대로 125, <a href="http://maps.google.com/maps?q=36.3508036,127.2984221">구글지도</a>
 
-## 기계학습 스타트업 특강
+## 데이터과학과 기계학습(인공지능) 스타트업 특강
 
-대한민국에서 지금도 진행중인 기계학습(인공지능) 기술기반 창업 경험을 진솔하게 전달하여 드립니다.
+데이터과학과 접목된 기계학습(인공지능) 기술기반 엔터프레너쉽에 필요한 기본기에 대해 경험과 노하우를 전달하여 드립니다.
 
-* 대한민국에서 창업이란?
-* 기술기반 창업전에 꼭 알았으면 좋았었을 지식/정보
-* 기계학습(인공지능) 기술기반 창업
+* 데이터과학과 접목된 기계학습(인공지능) 흐름
+* 기계학습(인공지능) 기술기반 엔터프레너쉽
 * 두 슈퍼파워를 가진 최종 승자는 누구일까?
-    1. 금수저, 은수저를 입에 문 창업가
-    1. 기계학습을 입에 문 창업가
+    1. 금수저, 은수저를 입에 문 엔터프레너쉽
+    1. 기계학습을 입에 문 엔터프레너쉽
 
-**[경영학도를 위한 기계학습(인공지능) 창업 토의자료](http://statkclee.github.io/slideshows/hanbat/)**
+**[경영학도를 위한 기계학습(인공지능) 토의자료](http://statkclee.github.io/slideshows/hanbat/)**
 
 > ### AI is a Superpower {.callout}
 >
 > "AI is a superpower!!!" [Andrew Ng](https://twitter.com/andrewyng/status/728986380638916609)  
 > 인공지능을 체득하면 슈퍼파워를 손에 쥘 것이다.
 
-## 기계학습(인공지능) 스타트업 창업 및 준비
+## 기계학습(인공지능) 관련 정보
 
 1. xwMOOC 창업 제품
     1. [xwMOOC $100 오픈 컴퓨터](http://computer.xwmooc.org/)
@@ -38,7 +37,7 @@ subtitle: 경영학도를 위한 기계학습(인공지능) 창업
          - 컴퓨터과학 언플러그드 [^1]
          - 러플 [^2] / 리보그 [^3]
          - 파이썬 터틀 [^4] [^5]
-1. 기계학습(인공지능) 창업을 위한 [기초 지식](http://swcarpentry.xwmooc.org/)
+1. 기계학습(인공지능)을 위한 [기초 지식](http://swcarpentry.xwmooc.org/)
     1. [작업자동화: 유닉스쉘](http://statkclee.github.io/shell-novice/index-kr.html)
     1. [이력관리와 협업: Git/GitHub](http://statkclee.github.io/git-novice/index-kr.html)
     1. [추상화와 모듈화: R](http://statkclee.github.io/r-novice-inflammation/index-kr.html)
